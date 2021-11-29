@@ -1,0 +1,16 @@
+@media screen and (max-width: 500px) {
+    .logo img{
+        width: 130px;
+        margin-top: 20px;
+    }
+    .user-menu {
+        width: 200px;
+        height:60px;
+        position:absolute;
+        right: 0;
+    }
+    .user-menu ul li {
+        width:90px;
+        font-size:12px;
+    }
+}
